@@ -10,4 +10,6 @@ form{
 form input{
   height: 30px;
   padding: 10px 20px;
+  border: 1px solid blue;
+  background-color: transparent;
 }
